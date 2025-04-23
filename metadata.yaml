@@ -1,0 +1,63 @@
+_repo: The-British-battle-fleet-Vol-1-of-2-b-its-inception-and-growth-throughout-the-centuries-to-th__75616
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wyllie, W. L. (William Lionel)
+    alias: Wyllie, William Lionel
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '58069'
+    url: http://www.gutenberg.org/2009/agents/58069
+    wikipedia: https://en.wikipedia.org/wiki/William_Lionel_Wyllie
+creator:
+  author:
+    agent_name: Jane, Fred T. (Frederick Thomas)
+    alias: Jane, Frederick Thomas
+    birthdate: 1865
+    deathdate: 1916
+    gutenberg_agent_id: '35153'
+    url: http://www.gutenberg.org/2009/agents/35153
+    wikipedia: https://en.wikipedia.org/wiki/Fred_T._Jane
+description: 'Reading ease score: 71.7 (7th grade). Fairly easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: History - British'
+- 'Browsing: History - Warfare'
+gutenberg_issued: '2025-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75616'
+language: en
+pgterms:marc904: https://archive.org/details/britishbattlefle01jane
+pgterms:marc905: 20231125101017jane
+pgterms:marc906: '1915'
+pgterms:marc907: gb
+production_note: Peter Becker, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bThe Library Press, limited, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History, Naval'
+- !lcsh 'Great Britain. Royal Navy -- History'
+- !lcsh 'Warships -- Great Britain -- History'
+- !lcc 'DA'
+- GITenberg
+summary: '"The British Battle Fleet, Vol. 1 (of 2): Its Inception and Growth Throughout
+  the Centuries" by Fred T. Jane is a historical account written in the early 20th
+  century. This work delves into the evolution of the British Navy from its mythic
+  beginnings to the sophisticated fleet in contemporary times. The primary focus highlights
+  the technological advancements and the shipbuilders’ contributions to naval warfare
+  rather than detailing the exploits of admirals and notable battles.  The opening
+  of this work sets the stage for an exploration of the origins of British naval power.
+  It begins by addressing the obscured and legendary inception of the fleet, moving
+  from early myths involving figures like King Alfred to a more factual representation
+  of naval developments during his reign and those of subsequent monarchs. Jane emphasizes
+  that the establishment of a truly organized Navy stemmed from necessity—a response
+  to foreign threats rather than a premeditated strategy—and outlines various periods,
+  such as the Norman invasions and the Plantagenet era, that shaped the maritime landscape
+  of England. (This is an automatically generated summary.)'
+title: 'The British battle fleet, Vol. 1 (of 2) : $b its inception and growth throughout
+  the centuries to the present day'
+url: http://www.gutenberg.org/ebooks/75616
