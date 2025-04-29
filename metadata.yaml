@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '58069'
     url: http://www.gutenberg.org/2009/agents/58069
     wikipedia: https://en.wikipedia.org/wiki/William_Lionel_Wyllie
+covers:
+- cover_type: archival
+  image_path: 75616-h/images/cover.jpg
 creator:
   author:
     agent_name: Jane, Fred T. (Frederick Thomas)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35153
     wikipedia: https://en.wikipedia.org/wiki/Fred_T._Jane
 description: 'Reading ease score: 71.7 (7th grade). Fairly easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75616#The-British-battle-fleet-Vol-1-of-2-b-its-inception-and-growth-throughout-the-centuries-to-th_
 gutenberg_bookshelf:
 - 'Browsing: History - British'
 - 'Browsing: History - Warfare'
